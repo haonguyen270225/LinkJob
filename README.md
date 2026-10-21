@@ -192,6 +192,7 @@ LinkJob sử dụng quy ước commit nhất quán nhằm giúp lịch sử Git 
 | `ui` | Giao diện người dùng |
 | `frontend` | Ứng dụng phía client |
 | `backend` | Xử lý phía máy chủ |
+| `assets` | Bổ sung tài nguyên như ảnh , logo , font |
 | `api` | API endpoints |
 | `auth` | Xác thực và phân quyền |
 | `user` | Tài khoản và hồ sơ người dùng |
